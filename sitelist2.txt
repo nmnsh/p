@@ -1,13 +1,16 @@
-This file contain list of Iranian sites that hosted in Iran based on g2b.ito.gov.ir:
 
 softup.ir
 server10.speedha.ir
+speedha.ir
 rasamvira.ir
 shayesteganedu.ir
 skyroom.online
 dl.graphiran.com
+graphiran.com
 office.psbco.org
+psbco.org
 crm.tecparsnet.ir
+tecparsnet.ir
 soft1.site
 papionvod.ir
 eps.update.amnpardaz.com
